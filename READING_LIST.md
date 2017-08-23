@@ -10,6 +10,7 @@
 
 ## Recommend
  - "Clean Code", by Robert C. Martin (Uncle Bob)
+   - `clean-code-javascript` - https://github.com/ryanmcdermott/clean-code-javascript
  - "Grit", by Angela Duckworth
  - "10% Happier", by Dan Harris
  - "Design Patterns" by Erich Gamma, John Vlissides, Ralph Johnson, and Richard Helm (GoF)
